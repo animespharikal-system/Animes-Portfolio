@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#191a22"/>
+      <stop offset="1" stop-color="#101114"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="22%" r="55%">
+      <stop offset="0" stop-color="#6254a8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6254a8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#a9a0ff" stroke-opacity=".2">
+    <circle cx="950" cy="315" r="122"/>
+    <circle cx="950" cy="315" r="178"/>
+    <circle cx="950" cy="315" r="234"/>
+  </g>
+  <rect x="90" y="86" width="56" height="56" rx="12" fill="#282638" stroke="#625c89"/>
+  <text x="118" y="122" fill="#c1baff" font-family="monospace" font-size="19" text-anchor="middle">AP</text>
+  <text x="90" y="260" fill="#ececf0" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-3">Animes Pharikal</text>
+  <text x="93" y="321" fill="#b7afff" font-family="Segoe UI, Arial, sans-serif" font-size="25">Engineering student · Aspiring AI engineer</text>
+  <text x="93" y="382" fill="#a1a1ad" font-family="Segoe UI, Arial, sans-serif" font-size="21">Building practical software. Exploring thoughtful AI.</text>
+  <path d="M93 478h74" stroke="#a9a0ff"/>
+  <text x="93" y="516" fill="#858590" font-family="monospace" font-size="13" letter-spacing="2">AI · FULL-STACK · PRODUCT</text>
+</svg>
